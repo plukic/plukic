@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plukic" alt="plukic" /></a> </p>
 
-- 🔭 I’m currently working on **ITO.Commons**
+- 🔭 I’m currently working on **LiTor**
 
 - 🌱 I’m currently learning **React**
 
